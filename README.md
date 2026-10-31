@@ -109,4 +109,9 @@ Use flab only on a process and device you own or are authorized to test, in owne
 
 ## License
 
-No license file yet.
+Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+Copyright 2026 Sunwoo Moon. You may use, modify, and redistribute this software,
+including commercially, under the terms of the Apache License 2.0. The license
+does not grant rights to any third-party game, its assets, or its anti-cheat or
+DRM systems; the safety boundary above still applies.
